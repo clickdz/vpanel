@@ -2,6 +2,7 @@ body,#cpanel_body {
  font-weight:lighter;
  color:#4f5860;
  background-color:#f5f5f5
+ background-image: none !important;
 }
 a:hover,.body-content a:hover,.btn-link:hover {
  color:#ff6c2c;
