@@ -6800,11 +6800,6 @@ h1 .action,h2 .action,h3 .action {
 .visible-xs-inline {
  display:none!important
 }
-.navbar-cpanel {
- background-color:#293a4a;
- border-color:#293a4a;
- box-shadow:0 0 5px rgba(0,0,0,0.5)
-}
 .navbar-subnav {
  background:#eaeaea;
  border-radius:0;
