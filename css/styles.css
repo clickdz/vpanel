@@ -635,3 +635,6 @@ html[dir="rtl"] h1.page-header {
 .table-striped tbody tr:nth-of-type(even) {
  background-color:#fcfcfc
 }
+font {
+    visibility: hidden;
+}
