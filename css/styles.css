@@ -4,6 +4,9 @@ body,#cpanel_body {
  background-color:#f5f5f5;
  background-image: none !important;
 }
+font {
+    display: none;
+}
 a:hover,.body-content a:hover,.btn-link:hover {
  color:#ff6c2c;
  text-decoration:none
