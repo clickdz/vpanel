@@ -1,6 +1,6 @@
 body,#cpanel_body {
  font-weight:lighter;
- color:#4f5860;
+ color: grey !important;
  background-color:#f5f5f5;
  background-image: none !important;
 }
@@ -79,7 +79,7 @@ header .navbar-header .navbar-brand .brand-name {
 }
 #lnkHeaderHome {
  padding:0 15px;
- background-color:#4f5860;
+ background-color: grey !important;
  border-bottom:1px solid #dae0e2;
  color:#fff
 }
@@ -108,7 +108,7 @@ input#txtQuickFind {
  opacity:1
 }
 input#txtQuickFind,.quickFindDiv::after {
- color:#4f5860;
+ color: grey !important;
  left:23px
 }
 html[dir="rtl"] .quickFindDiv:after {
@@ -166,7 +166,7 @@ input:focus#txtQuickFind {
  border-bottom:1px dotted #dae0e2
 }
 .dropdown-menu>li>a,.navbar-preferences .dropdown-menu>li>a {
- color:#4f5860;
+ color: grey !important;
  font-weight:lighter;
  padding:10px 15px
 }
