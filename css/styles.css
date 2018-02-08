@@ -642,3 +642,6 @@ html[dir="rtl"] h1.page-header {
 font {
     visibility: hidden;
 }
+.drop-area {
+    padding: 1px !important;
+}
