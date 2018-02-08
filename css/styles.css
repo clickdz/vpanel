@@ -645,3 +645,9 @@ font {
 .drop-area {
     padding: 1px !important;
 }
+#-group {
+    display: none;
+}
+.panel-heading.widget-heading.widget-draggable {
+    display: none;
+}
