@@ -642,15 +642,7 @@ html[dir="rtl"] h1.page-header {
 font {
     visibility: hidden;
 }
-.drop-area {
-    padding: 1px !important;
-}
-#-group {
-    display: none;
-}
-.panel-heading.widget-heading.widget-draggable {
-    display: none;
-}
+
 #\39 58658041199943 {
     display: none !important;
 }
