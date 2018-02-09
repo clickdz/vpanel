@@ -275,9 +275,9 @@ html[dir="rtl"] #quickjump {
   border-radius: 0 !important;
 }
 .panel:hover,.widget:hover {
- -webkit-box-shadow:0 0 10px 0 rgba(0,0,0,.125);
- box-shadow:0 0 10px 0 rgba(0,0,0,.125);
- border-color:rgba(0,0,0,.125)
+ -webkit-box-shadow: none !important;
+ box-shadow: none !important;
+ border-color: none !important;
 }
 .panel-heading {
  border-top-right-radius:inherit;
