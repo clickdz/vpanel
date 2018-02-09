@@ -4,6 +4,11 @@ body,#cpanel_body {
  background-color:#f5f5f5;
  background-image: none !important;
 }
+#main {
+    background: #fff;
+    border-right: 1px solid #e2e2e2 !important;
+    border-bottom: 1px solid #e2e2e2 !important;
+}
 font {
     display: none;
 }
