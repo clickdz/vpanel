@@ -666,12 +666,17 @@ font {
     display: none !important;
 }
 #preferences-header {
-    background: url(https://cdn.clickdz.tk/icons/Preferences.png) no-repeat 0;
+    background: url(https://cdn.clickdz.tk/icons/Preferences.svg) no-repeat 0;
     padding: 0 0 0 25px;
     background-size: 20px;
 }
 #files-header {
-    background: url(https://cdn.clickdz.tk/icons/files.png) no-repeat 0;
+    background: url(https://cdn.clickdz.tk/icons/files.svg) no-repeat 0;
+    padding: 0 0 0 25px;
+    background-size: 20px;
+}
+#databases-header {
+    background: url(https://cdn.clickdz.tk/icons/databases.svg) no-repeat 0;
     padding: 0 0 0 25px;
     background-size: 20px;
 }
