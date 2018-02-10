@@ -323,10 +323,10 @@ html[dir="rtl"] #quickjump {
  background-color:transparent
 }
 .item {
- background:#f9f9f9;
+ background:#F5F5F5;
  margin:0 15px 15px 0;
  width:230px;
- border:1px solid #f0f0f0;
+ border:1px solid #E5E5E5;
  border-radius:2px;
  -webkit-border-radius:2px;
  overflow:hidden
@@ -717,6 +717,11 @@ font {
 }
 #support-header {
     background: url(https://cdn.clickdz.tk/icons/support.svg) no-repeat 0;
+    padding: 0 0 0 25px;
+    background-size: 20px;
+}
+# statsHeaderSection {
+    background: url(https://cdn.clickdz.tk/icons/stats.svg) no-repeat 0;
     padding: 0 0 0 25px;
     background-size: 20px;
 }
