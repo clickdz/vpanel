@@ -92,7 +92,6 @@ header .navbar-header .navbar-brand .brand-name {
 #lnkHeaderHome {
  padding:0 15px;
  background-color: grey !important;
- border-bottom:1px solid #dae0e2;
  color:#fff
 }
 #lnkHeaderHome:hover {
