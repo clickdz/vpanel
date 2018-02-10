@@ -301,7 +301,7 @@ html[dir="rtl"] #quickjump {
  background-color:transparent;
  text-transform:capitalize;
  font-size:22px;
- padding:15px
+ padding:15px 0;
 }
 .widget-heading:hover .group-header,.widget-header:hover .group-header {
  color:#ff6c2c
@@ -702,6 +702,21 @@ font {
 }
 #software-header {
     background: url(https://cdn.clickdz.tk/icons/software.svg) no-repeat 0;
+    padding: 0 0 0 25px;
+    background-size: 20px;
+}
+#advanced-header {
+    background: url(https://cdn.clickdz.tk/icons/advanced.svg) no-repeat 0;
+    padding: 0 0 0 25px;
+    background-size: 20px;
+}
+#soft_div-header {
+    background: url(https://cdn.clickdz.tk/icons/software.svg) no-repeat 0;
+    padding: 0 0 0 25px;
+    background-size: 20px;
+}
+#support-header {
+    background: url(https://cdn.clickdz.tk/icons/support.svg) no-repeat 0;
     padding: 0 0 0 25px;
     background-size: 20px;
 }
