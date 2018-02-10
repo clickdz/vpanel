@@ -685,8 +685,18 @@ font {
     padding: 0 0 0 25px;
     background-size: 20px;
 }
-# email-header {
+#email-header {
     background: url(https://cdn.clickdz.tk/icons/email.svg) no-repeat 0;
+    padding: 0 0 0 25px;
+    background-size: 20px;
+}
+#metrics-header {
+    background: url(https://cdn.clickdz.tk/icons/metrics.svg) no-repeat 0;
+    padding: 0 0 0 25px;
+    background-size: 20px;
+}
+#security-header {
+    background: url(https://cdn.clickdz.tk/icons/security.svg) no-repeat 0;
     padding: 0 0 0 25px;
     background-size: 20px;
 }
