@@ -98,7 +98,7 @@ header .navbar-header .navbar-brand .brand-name {
  background-color:#ff6c2c
 }
 .navbar-cpanel {
- background-image: linear-gradient(-180deg, #43a799 0%, #53baaa 100%);
+ background: #33414e;
  border-bottom: none !important;
  box-shadow: none;
 }
