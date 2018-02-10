@@ -65,6 +65,7 @@ footer {
  border-top:0 solid #d9e0e2
 }
 footer .navbar {
+ display: none;
  margin:0
 }
 footer .navbar-nav>li>a {
