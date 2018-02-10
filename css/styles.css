@@ -5,9 +5,12 @@ body,#cpanel_body {
  background-image: none !important;
 }
 #main {
-    background: #fff;
-    border-right: 1px solid #e2e2e2 !important;
-    border-bottom: 1px solid #e2e2e2 !important;
+ background: #fff;
+ border: 1px solid #e2e2e2 !important;
+ border-top-width: 1px;
+ border-top-style: solid;
+ border-top-color: rgb(226, 226, 226);
+ border-top: none !important;
 }
 font {
     display: none;
