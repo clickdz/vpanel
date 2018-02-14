@@ -145,7 +145,7 @@ input:focus#txtQuickFind {
  border-bottom:0;
  border-radius:0;
  background-color:transparent;
- color:#445190;
+ color:#6D76A2;
 }
 .navbar-preferences button.navbar-item.btn-primary,#btnUserPref,#lnkHeaderLogout,#lnkHeaderNotifications {
  min-width:50px
