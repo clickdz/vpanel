@@ -12,6 +12,11 @@ body,#cpanel_body {
 font {
     display: none;
 }
+iframe {
+    height: 80px;
+    width: 100%;
+    overflow: hidden !important;
+}
 a:hover,.body-content a:hover,.btn-link:hover {
  color:#006361;
  text-decoration:none
