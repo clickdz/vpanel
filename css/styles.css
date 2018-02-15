@@ -14,6 +14,7 @@ body,#cpanel_body {
  border-top-style: solid;
  border-top-color: rgb(226, 226, 226);
  border-top: none !important;
+ border-left: none !important;
 }
 font {
     display: none;
@@ -198,7 +199,7 @@ input:focus#txtQuickFind {
 #sidebar {
  background-color:#fff;
  box-shadow:none;
- border-color:#d9e0e2;
+ border-color:1px solid #e2e2e2 !important;
  border-top:0
 }
 #sidebar a {
