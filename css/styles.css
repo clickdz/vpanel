@@ -228,7 +228,7 @@ input:focus#txtQuickFind {
  padding-top:40px
 }
 #content {
- margin:20px 20px 5px 20px
+ margin:0;
 }
 #jump-search {
  margin:20px 20px 5px 0
