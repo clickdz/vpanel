@@ -7165,6 +7165,7 @@ html[dir="rtl"] .input-quick-find {
 }
 html[dir="ltr"] #sidebar {
  left:0
+ border-right:1px solid #e2e2e2 !important;
 }
 html[dir="rtl"] #sidebar {
  right:0
