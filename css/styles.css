@@ -14,7 +14,6 @@ body,#cpanel_body {
  border-top-style: solid;
  border-top-color: rgb(226, 226, 226);
  border-top: none !important;
- border-left: none !important;
 }
 font {
     display: none;
