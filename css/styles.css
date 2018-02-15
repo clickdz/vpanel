@@ -528,7 +528,7 @@ html[dir="rtl"] h1.page-header {
   width:20px
  }
  html[dir="ltr"] #content,html[dir="ltr"] #stats {
-  padding-left:15px
+  padding:0px;
  }
  #home.cpanel #content,#content,html[dir="ltr"] #content {
   padding-top:0;
