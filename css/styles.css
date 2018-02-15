@@ -1,8 +1,5 @@
 body,#cpanel_body {
  font-weight:lighter;
- color: grey !important;
- background-color:#f5f5f5;
- background-image: none !important;
 }
 .navbar-brand-logo {
  max-height: 40px !important;
