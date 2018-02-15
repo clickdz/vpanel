@@ -276,7 +276,7 @@ html[dir="rtl"] #quickjump {
  margin-bottom:35px
 }
 .panel,.widget {
-  background-color: #fff;
+  background-color: #F9F9F9;
   margin-top: 0px !important;
   box-shadow: none;
   border: none !important;
