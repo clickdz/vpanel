@@ -139,7 +139,7 @@ input:focus#txtQuickFind {
  box-shadow:none
 }
 .navbar-preferences button.navbar-item.btn-primary,#btnUserPref,#lnkHeaderLogout,#lnkHeaderNotifications {
- border-left: 1px solid #2f3c48; 
+ border-left: 1px solid #68465f; 
  border-right:0;
  border-top:0;
  border-bottom:0;
