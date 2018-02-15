@@ -12,6 +12,9 @@ body,#cpanel_body {
 font {
     display: none;
 }
+#-group {
+    display: none;
+}
 iframe {
     height: 80px;
     width: 100%;
