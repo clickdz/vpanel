@@ -7164,8 +7164,8 @@ html[dir="rtl"] .input-quick-find {
  box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12)
 }
 html[dir="ltr"] #sidebar {
- left:0
- border-right:1px solid #e2e2e2 !important;
+ left:0;
+ display: none;
 }
 html[dir="rtl"] #sidebar {
  right:0
