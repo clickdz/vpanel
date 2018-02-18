@@ -7223,7 +7223,7 @@ html[dir="rtl"] .cp-nav-toggle {
 @media(min-width:768px) {
  .navbar .navbar-header {
  width:100%;
- border-bottom: 3px solid #68465f;
+ border-bottom: 3px solid #42526b;
  }
  .cp-nav-toggle {
   display:none
